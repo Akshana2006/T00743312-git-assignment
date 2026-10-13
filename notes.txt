@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Second change
-=======
-Web Design
->>>>>>> feature-bio
+Class: Software Engineering
+Favourite topics: Databases and Web Design
+Goal: Learn Git
